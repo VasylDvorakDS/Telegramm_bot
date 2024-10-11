@@ -1,0 +1,16 @@
+Librories for telebot:
+
+pip install telebot
+pip install PyTelegramBotAPI==2.2.3
+pip install PyTelegramBotAPI==3.6.7
+
+Librories for ChatGPT:
+
+pip install g4f
+pip install curl_cffi
+
+
+
+My Telegramm bot name: VasylDbot
+
+Key:  "7665859013:AAETJ_yvV77R7PNNJkqZEqui_60Zu0AVifg"

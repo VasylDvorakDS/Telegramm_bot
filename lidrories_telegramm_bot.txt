@@ -1,6 +1,0 @@
-
-pip install telebot
-pip install PyTelegramBotAPI==2.2.3
-pip install PyTelegramBotAPI==3.6.7
-
-Библиотеки к telebot
