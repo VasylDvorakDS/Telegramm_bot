@@ -17,7 +17,7 @@ def load():
     print("Фильмотека была успешно загружена")   
 
 
-API_TOKEN='5411681423:AAG8HUjRH--jrFHAV2UNb1_KueTmwv9_NA8'
+API_TOKEN='7665859013:AAETJ_yvV77R7PNNJkqZEqui_60Zu0AVifg'
 bot = telebot.TeleBot(API_TOKEN)
 
 @bot.message_handler(commands=['start'])
